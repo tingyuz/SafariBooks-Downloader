@@ -40,12 +40,6 @@ cd SafariBooks-Downloader
 Install all the dependencies with npm.
 
 ```bash
-npm install
-```
-Congratulations! You've successfully installed SafariBooks-Downloader.
-If you desire to do so, you can install the tool globally on your machine. To do so, run:
-
-```bash
 npm install -g
 ```
 
